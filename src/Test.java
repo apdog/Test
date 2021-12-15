@@ -55,7 +55,7 @@ public class Test {
                 "1) кислород\n" +
                 "2) вода\n" +
                 "3) углекислый газ\n" +
-                "4) возду");
+                "4) воздух");
         System.out.print("Ваш ответ: ");
         int answer4 = answer.nextInt();
         if (answer4 == 1)
